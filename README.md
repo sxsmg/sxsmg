@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Sakshum Gadyal
 ![Twitter Follow](https://img.shields.io/twitter/follow/__sxsm?style=social)
-
+![GITHUB Followers](https://img.shields.io/github/followers/sxsmg?style=social)
 <!--
 **sxsmg/sxsmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
