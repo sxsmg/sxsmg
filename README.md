@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sakshum Gadyal
+### Hi there 👋,
 ![Twitter Follow](https://img.shields.io/twitter/follow/__sxsm?style=social)
 ![GITHUB Followers](https://img.shields.io/github/followers/sxsmg?style=social)
 <!--
