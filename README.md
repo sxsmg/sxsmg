@@ -1,4 +1,4 @@
-### Hi there 👋, I am Sakshum Gadyal. I am interested in a lot of things but mostly coding, computers, math and science. Here for creating crazy side projects
+### Hi there 👋, I am Sakshum Gadyal. I am interested in a lot of things but mostly coding, computers, math and science. Here for creating crazy side projects and maybe something useful
 ![Twitter Follow](https://img.shields.io/twitter/follow/__sxsm?style=social)
 ![GITHUB Followers](https://img.shields.io/github/followers/sxsmg?style=social)
 <!--
