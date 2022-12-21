@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/__sxsm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__sxsm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sakshum-gadyal-64ba90220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshum-gadyal-64ba90220/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakshum-gadyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshum-gadyal-64ba90220/" height="30" width="40" /></a>
 <a href="https://instagram.com/__sxsmg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sxsmg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thesgadyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thesgadyal" height="30" width="40" /></a>
 </p>
