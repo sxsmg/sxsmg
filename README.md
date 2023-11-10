@@ -14,7 +14,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Sakshum</h1>
-<h3 align="center">Python Developer, interested in a lot of things but mostly coding, computers, math and science. Here for creating crazy side projects and maybe something useful. I'm mastering cloud concepts for now, will update soon ;) </h3>
+<h3 align="center">interested in a lot of things but mostly coding, computers, math and science. Here for creating crazy side projects and maybe something useful ;) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sxsmg&label=Profile%20views&color=0e75b6&style=flat" alt="sxsmg" /> </p>
 
